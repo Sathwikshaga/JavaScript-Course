@@ -14,7 +14,7 @@ let isLoggedIn = true
 let state;
 
 // number => range: 2^53
-// bigint is also used - for large numbers
+// BigInt is also used - for large numbers
 // string => ""
 // boolean => true/false
 // null => standalone value datatype: object
