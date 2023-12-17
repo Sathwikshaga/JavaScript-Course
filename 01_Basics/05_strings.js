@@ -16,10 +16,10 @@ const gameName = new String('Cranky')
 console.log(gameName.charAt(2));
 console.log(gameName.indexOf('t'));
 
-const newString = gameName.substring(0, 4)
+const newString = gameName.substring(1, 4)
 console.log(newString);
 
-const anotherString = gameName.slice(-8, 4)
+const anotherString = gameName.slice(-3, 6)
 console.log(anotherString);
 
 const newStringOne = "   Sathwik   "
