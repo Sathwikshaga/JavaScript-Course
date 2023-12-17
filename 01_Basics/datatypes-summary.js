@@ -17,7 +17,7 @@ console.log(typeof anotherId);
 
 const bigNumber = 3456543576654356754n
 
-// Non-primitive Datatypes : Call by Reference
+// Non-Primitive Datatypes : Call by Reference
 
 // 3 Types: Array, Objects, Functions
 
